@@ -1,1 +1,2 @@
 This is java home for commit 1
+commit 2
